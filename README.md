@@ -39,4 +39,5 @@
   <img align="center" alt="tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="vim" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
+  <img align="center" alt="vim" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </div>
