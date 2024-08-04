@@ -90,4 +90,5 @@
   <img align="center" alt="axios" height="30" width="40" src="https://raw.githubusercontent.com/canaleal/devicon/6fd27a4380daae1b14f69b995374b510dbf8c78f/icons/axios/axios-plain-wordmark.svg" />
   <img align="center" alt="kalilinux" height="30" width="40" src="https://raw.githubusercontent.com/canaleal/devicon/6fd27a4380daae1b14f69b995374b510dbf8c78f/icons/kalilinux/kalilinux-original-wordmark.svg" />
   <img align="center" alt="ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
+  <img align="center" alt="ubuntu" height="30" width="40" src="https://img.utdstc.com/icon/06f/a39/06fa39301c97531152761a4d780a1fedcdaec6b55ff08f5327eba2ff19cdd9bb:100" />
 </p>
