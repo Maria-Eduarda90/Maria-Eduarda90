@@ -73,7 +73,7 @@
   <img align="center" alt="microsoftsqlserver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
 </p>
 
-<h3>Tools</h3>
+<h3>DevOps e Clound</h3>
 <p align="left">
   <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
   <img align="center" alt="Supabase" height="30" width="40" src="https://raw.githubusercontent.com/canaleal/devicon/6fd27a4380daae1b14f69b995374b510dbf8c78f/icons/supabase/supabase-original.svg" />
