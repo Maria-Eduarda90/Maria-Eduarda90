@@ -7,9 +7,9 @@
 
 <p align="center">
 <a href="https://github.com/Maria-Eduarda90">
-<img height="180em" width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-Eduarda90&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=13" alt="GitHub language stats" />
-<img height="180em" width="57%" src="https://github-readme-stats.vercel.app/api?username=Maria-Eduarda90&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  </a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-Eduarda90&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=13" alt="GitHub language stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maria-Eduarda90&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+</a>
 </p>
 
 <h3>Primary Languages</h3>
