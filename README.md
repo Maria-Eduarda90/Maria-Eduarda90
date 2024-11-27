@@ -11,6 +11,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-eduarda90&layout=compact&langs_count=12&theme=dark"/>
 </div>
 
+<p align="center">
+<a href="https://github.com/Maria-Eduarda90">
+<img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-Eduarda90&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" />
+<img width="57%" src="https://github-readme-stats.vercel.app/api?username=Maria-Eduarda90&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  </a>
+</p>
+
 <h3>Primary Languages</h3>
 <p align="left">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
