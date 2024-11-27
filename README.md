@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/maria-eduarda90">
-  <img height="180em" width="32% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-Eduarda90&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=13"/>
+  <img height="180em" width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-Eduarda90&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=13"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-eduarda90&layout=compact&langs_count=12&theme=dark"/>
 </div>
 
