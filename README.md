@@ -5,12 +5,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maria-eduarda90&bg_color=red&color=bd93f9&color=bd93f9&line=bd93f9&point=f1f5f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">
-  <a href="https://github.com/maria-eduarda90">
-  <img height="180em" width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-Eduarda90&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=13"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-eduarda90&layout=compact&langs_count=12&theme=dark"/>
-</div>
-
 <p align="center">
 <a href="https://github.com/Maria-Eduarda90">
 <img height="180em" width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-Eduarda90&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=13" alt="GitHub language stats" />
